@@ -27,9 +27,9 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
         <span>services</span>
         <spane>
-          Lorem ispum is simpley dummy text of printing of printing Lorem
+          Hard-working professional with almost 2 year of experience and a proven 
           <br />
-          ispum is simpley dummy text of printing
+          knowledge of Full stack web designer and developer. 
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
